@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #define TAM 10
 
 //Função que implementa o insert sort:
